@@ -8,5 +8,11 @@
 </head>
 <body>
     <h1>クローン用です</h1>
+    <p>クローン編集中</p>
+    <div>
+        <li>僕は</li>
+        <li>元気</li>
+        <li>です</li>
+    </div>
 </body>
 </html>
